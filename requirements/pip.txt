@@ -1,0 +1,7 @@
+browser-use
+playwright
+httpx
+beautifulsoup4
+lxml
+pillow
+python-dateutil

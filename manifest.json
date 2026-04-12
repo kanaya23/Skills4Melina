@@ -1,0 +1,45 @@
+{
+  "created_at_utc": "2026-04-06T13:09:20.024296Z",
+  "agent_name": "Melina",
+  "remote_agent_root": "/home/azureuser/freeclaw/workspace/Melina",
+  "export_root": "/kaggle/working/melina_vm_export",
+  "contents": {
+    "skills": [
+      "computer-use-core",
+      "browser-use-artifacts",
+      "browser-use-core",
+      "browser-use-dom-extract",
+      "browser-use-downloads",
+      "browser-use-forms",
+      "browser-use-navigation",
+      "browser-use-search",
+      "browser-use-session",
+      "file-normalize"
+    ],
+    "tools": [
+      "ensure_display.sh",
+      "extract_dom_text.py",
+      "make_sendable.py",
+      "save_markdown_report.py",
+      "save_page_context.py",
+      "save_text_artifact.py",
+      "write_daily_journal.py"
+    ],
+    "persona": [
+      "00-imported-from-vm.md",
+      "10-browser-rules.md",
+      "20-send-file-rules.md",
+      "40-task-journal-rules.md",
+      "50-dom-extraction-rules.md",
+      "90-browser-use-overrides.md",
+      "95-browser-completion-rules.md"
+    ],
+    "raw": [
+      "tasks.md"
+    ],
+    "requirements": [
+      "apt.txt",
+      "pip.txt"
+    ]
+  }
+}

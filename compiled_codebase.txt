@@ -1,0 +1,54 @@
+/root
+  manifest.json
+  README.md
+  Compiler.py
+
+/persona
+  20-send-file-rules.md
+  00-imported-from-vm.md
+  40-task-journal-rules.md
+  10-browser-rules.md
+  90-browser-use-overrides.md
+  50-dom-extraction-rules.md
+  95-browser-completion-rules.md
+
+/skills/browser-use-core
+  SKILL.md
+
+/skills/browser-use-downloads
+  SKILL.md
+
+/skills/browser-use-forms
+  SKILL.md
+
+/skills/browser-use-dom-extract
+  SKILL.md
+
+/skills/browser-use-session
+  SKILL.md
+
+/skills/browser-use-search
+  SKILL.md
+
+/skills/browser-use-artifacts
+  SKILL.md
+
+/skills/file-normalize
+  SKILL.md
+
+/skills/browser-use-navigation
+  SKILL.md
+
+/tools
+  save_page_context.py
+  ensure_display.sh
+  extract_dom_text.py
+  save_markdown_report.py
+  make_sendable.py
+  write_daily_journal.py
+  save_text_artifact.py
+
+/requirements
+  apt.txt
+  pip.txt
+
